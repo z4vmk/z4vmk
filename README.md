@@ -28,10 +28,10 @@
   
   <h2>📇Contact📇</h2>
   
-  Email📧: [qv@qvgk.net](mailto:qv@qvgk.net)
+  📧Email: [qv@qvgk.net](mailto:qv@qvgk.net)
   
-  Twitter🐦: [@qvgka](https://twitter.com/qvgka)
+  🐦Twitter: [@qvgka](https://twitter.com/qvgka)
   
-  Discord🤖: <strong>qvgk#0001</strong>
+  🤖Discord: <strong>qvgk#0001</strong>
   
 </div>
