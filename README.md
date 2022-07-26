@@ -8,7 +8,7 @@
   
   <hr/>
   
-  <h2>Stats</h2>
+  <h2>📈Stats📈</h2>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=QVGK&show_icons=true&theme=radical)](#)
 
@@ -18,7 +18,7 @@
   
   <hr/>
   
-  <h2>Current Projects</h2>
+  <h2>🚧Current Projects🚧</h2>
   
   &bull; QVGK Interactive
   
