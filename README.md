@@ -34,4 +34,6 @@
   
   🤖Discord: <strong>qvgk#0001</strong>
   
+  🤖Reddit: [qvgk](https://reddit.com/u/qvgk)
+  
 </div>
