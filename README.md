@@ -30,10 +30,10 @@
   
   📧Email: [qv@qvgk.net](mailto:qv@qvgk.net)
   
-  🐦Twitter: [@qvgka](https://twitter.com/qvgka)
+  <a href="https://twitter.com/qvgka"><img src="/img/TwitterBadge.png" height="40px"/></a>
   
-  🤖Discord: <strong>qvgk#0001</strong>
+  <a href="#"><img src="/img/DiscordBadge.png" height="40px"/></a>
   
-  🤖Reddit: [qvgk](https://reddit.com/u/qvgk)
+  <a href="https://reddit.com/u/qvgk"><img src="/img/RedditBadge.png" height="40px"/></a>
   
 </div>
