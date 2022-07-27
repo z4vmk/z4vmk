@@ -1,19 +1,23 @@
 <div align="center">
 
-  <h2>📈Stats📈</h2>
+  ## 📈Stats📈
   
   <img src="https://stats.github.qvgk.net/api?username=QVGK&show_icons=true&theme=dark&count_private=true"/>
 
   
   <img src="https://stats.github.qvgk.net/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
   
-  <h2>🚧Current Projects🚧</h2>
+  ## 🚧Projects🚧
   
   &bull; QVGK Interactive
   
   &bull; RoStatistics
   
-  <h2>📇Contact📇</h2>
+  <img src="https://stats.github.qvgk.net/api/pin/?username=qvgk&repo=express-vercel&theme=dark" height="80px"/>
+  
+  <img src="https://stats.github.qvgk.net/api/pin/?username=qvgk&repo=catgenerator&theme=dark" height="80px"/>
+  
+  ## 📇Contact📇
   
   📧Email: [qv@qvgk.net](mailto:qv@qvgk.net)
   
