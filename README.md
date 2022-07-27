@@ -2,10 +2,10 @@
 
   <h2>📈Stats📈</h2>
   
-  <img src="https://stats.github.qvgk.net/api?username=QVGK&show_icons=true&theme=radical"/>
+  <img src="https://stats.github.qvgk.net/api?username=QVGK&show_icons=true&theme=dark&count_private=true"/>
 
   
-  <img src="https://stats.github.qvgk.net/api/top-langs/?username=QVGK&theme=radical"/>
+  <img src="https://stats.github.qvgk.net/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
   
   <h2>🚧Current Projects🚧</h2>
   
