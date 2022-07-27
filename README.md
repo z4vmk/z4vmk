@@ -13,10 +13,6 @@
   
   &bull; RoStatistics
   
-  <img src="https://stats.github.qvgk.net/api/pin/?username=qvgk&repo=express-vercel&theme=dark" height="80px"/>
-  
-  <img src="https://stats.github.qvgk.net/api/pin/?username=qvgk&repo=catgenerator&theme=dark" height="80px"/>
-  
   ## 📇Contact📇
   
   📧Email: [qv@qvgk.net](mailto:qv@qvgk.net)
