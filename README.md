@@ -9,11 +9,7 @@
   
   ## 🚧Projects🚧
   
-  &bull; QVGK Interactive
-  
-  &bull; RoStatistics
-  
-  &bull; QVGK Create-Vite
+  &bull; [Create-Better-Vite](https://github.com/FixedTemplateProject/create-better-vite)
   
   ## 📇Contact📇
   
