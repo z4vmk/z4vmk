@@ -17,8 +17,6 @@
   
   <a href="https://twitter.com/qvgka"><img src="/img/TwitterBadge.png" height="40px"/></a>
   
-  <a href="#"><img src="/img/DiscordBadge.png" height="40px"/></a>
-  
   <a href="https://reddit.com/u/qvgk"><img src="/img/RedditBadge.png" height="40px"/></a>
   
 </div>
