@@ -13,7 +13,7 @@
   
   ## 📇Contact📇
   
-  📧Email: [qv@qvgk.org](mailto:qv@qvgk.org)
+  [qv@qvgk.org](mailto:qv@qvgk.org)
   
   <a href="https://twitter.com/qvgka"><img src="/img/TwitterBadge.png" height="40px"/></a>
   
