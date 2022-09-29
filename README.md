@@ -15,6 +15,6 @@
   
   [qv@qvgk.org](mailto:qv@qvgk.org)
   
-  <a href="https://twitter.com/qvgka"><img src="/img/TwitterBadge.png" height="40px"/></a>
+  <a href="https://twitter.com/qvgka"><img src="https://img.shields.io/badge/-QVGKA-232323?logo=twitter&style=for-the-badge" height="40px"/></a>
   
 </div>
