@@ -2,10 +2,10 @@
 
   ## 📈Stats📈
   
-  <img src="https://stats.github.qvgk.net/api?username=QVGK&show_icons=true&theme=dark&count_private=true"/>
+  <img src="https://githubstats.qvgk.org/api?username=QVGK&show_icons=true&theme=dark&count_private=true"/>
 
   
-  <img src="https://stats.github.qvgk.net/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
+  <img src="https://githubstats.qvgk.org/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
   
   ## 🚧Projects🚧
   
@@ -13,7 +13,7 @@
   
   ## 📇Contact📇
   
-  📧Email: [qv@qvgk.net](mailto:qv@qvgk.net)
+  📧Email: [qv@qvgk.org](mailto:qv@qvgk.org)
   
   <a href="https://twitter.com/qvgka"><img src="/img/TwitterBadge.png" height="40px"/></a>
   
