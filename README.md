@@ -9,7 +9,9 @@
   
   ## 🚧Projects🚧
   
-  &bull; [Create-Better-Vite](https://github.com/FixedTemplateProject/create-better-vite)
+  &bull; SNOW (ROBLOX)
+  
+  &bull; Learn Lua (WEBSITE)
   
   ## 📇Contact📇
  
