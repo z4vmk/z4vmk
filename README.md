@@ -7,18 +7,6 @@
   
   <img src="https://githubstats.qvgk.org/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
   
-  ## 🚧Updates🚧
-  
-  &bull; QVGK-Interactive > QVGK-Studios
-  
-  &bull; FixedTemplateProject > TheFTP
-  
-  &bull; New QVGK-Studios Logo
-  
-  &bull; New FTP Logo
-  
-  &bull; New QVGK Profile Picture
-  
   ## 📇Contact📇
  
   <a href="https://twitter.com/qvgka"><img src="https://img.shields.io/badge/-QVGKA-232323?logo=twitter&style=for-the-badge" height="40px"/></a>
