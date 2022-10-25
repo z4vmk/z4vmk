@@ -7,11 +7,17 @@
   
   <img src="https://githubstats.qvgk.org/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
   
-  ## 🚧Projects🚧
+  ## 🚧Updates🚧
   
-  &bull; SNOW (ROBLOX)
+  &bull; QVGK-Interactive > QVGK-Studios
   
-  &bull; Learn Lua (WEBSITE)
+  &bull; FixedTemplateProject > TheFTP
+  
+  &bull; New QVGK-Studios Logo
+  
+  &bull; New FTP Logo
+  
+  &bull; New QVGK Profile Picture
   
   ## 📇Contact📇
  
