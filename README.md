@@ -1,14 +1,10 @@
 <div align="center">
 
-  <img src="https://github.com/QVGK/QVGK/blob/main/img/QVGK.png?raw=true"/>
-
-  #
+  <img src="https://github.com/QVGK/QVGK/blob/main/img/image.png?raw=true"/>
   
-  <img src="https://githubstats.qvgk.org/api?username=QVGK&show_icons=true&theme=dark&count_private=true"/>
+  <br/><br/>
   
-  <img src="https://githubstats.qvgk.org/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
-
-  #
+  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/qvgka)
  
   <a href="https://twitter.com/qvgka" relation="noreferrer" target="__blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40px"/>
@@ -20,6 +16,12 @@
   
   <a href="mailto:qv@qvgk.org" relation="noreferrer" target="__blank">
     <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px"/>
-  </a> 
+  </a>
+  
+  <br/><br/>
+  
+  <img src="https://githubstats.qvgk.org/api?username=QVGK&show_icons=true&theme=dark&count_private=true"/>
+  
+  <img src="https://githubstats.qvgk.org/api/top-langs/?username=QVGK&theme=dark&count_private=true&hide=shell"/>
   
 </div>
