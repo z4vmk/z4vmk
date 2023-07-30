@@ -11,7 +11,7 @@
   </a>
   
   <a href="#" relation="noreferrer" target="__blank">
-    <img src="https://img.shields.io/badge/qvgk%230618-454FBF?style=for-the-badge&logo=discord&logoColor=white" height="40px"/>
+    <img src="https://img.shields.io/badge/@qvgk-454FBF?style=for-the-badge&logo=discord&logoColor=white" height="40px"/>
   </a>
   
   <a href="mailto:qv@qvgk.org" relation="noreferrer" target="__blank">
