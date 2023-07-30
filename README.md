@@ -17,5 +17,9 @@
   <a href="mailto:qv@qvgk.org" relation="noreferrer" target="__blank">
     <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px"/>
   </a>
+
+  <br/><br/>
+
+  [![Discord Presence](https://lanyard.cnrad.dev/api/390410425293864962)](https://discord.com/users/390410425293864962)
   
 </div>
