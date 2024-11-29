@@ -4,7 +4,7 @@
   
   <br/><br/>
  
-  <a href="https://bluesky.app/qvgk.org" relation="noreferrer" target="__blank">
+  <a href="https://bsky.app/qvgk.org" relation="noreferrer" target="__blank">
     <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="40px"/>
   </a>
   
