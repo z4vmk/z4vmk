@@ -2,13 +2,8 @@
   
   [![Discord Presence](https://lanyard.cnrad.dev/api/390410425293864962)](https://discord.com/users/390410425293864962)
   
-  <a href="https://bsky.app/profile/qvgk.org" relation="noreferrer" target="__blank">
-    <img src="https://img.shields.io/badge/Bluesky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white" height="40px"/>
-  </a>
-  
-  <a href="mailto:me@imvsc.dev" relation="noreferrer" target="__blank">
-    <img src="https://img.shields.io/badge/eMail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px"/>
-  </a>
+  [![discord-singular](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/social/discord-singular_vector.svg)](https://discord.com/users/390410425293864962)
+  [![website](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/documentation/website_vector.svg)](https://www.z4vmk.dev)
 
   
 </div>
